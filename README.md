@@ -1,4 +1,4 @@
-datasciencecoursera1
+datasciencecoursera
 ====================
 
 Data Science Coursera
